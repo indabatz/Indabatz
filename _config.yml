@@ -5,7 +5,7 @@ safe: false
 
 # Build Settings
 markdown: kramdown
-theme:minima
+#theme:minima
 remote_theme:benbalter/retlab
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
