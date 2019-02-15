@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/indabax/sitemap.xml
+Sitemap: http://localhost:4000/indabatz/sitemap.xml
